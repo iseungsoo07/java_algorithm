@@ -5,7 +5,6 @@ package 정렬;
 import java.util.Arrays;
 
 public class ShellSort {
-
     public static void shellSort(int[] arr) {
         int gap = arr.length / 2;
 
